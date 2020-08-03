@@ -6,7 +6,7 @@ export const audioInit = () => {
         audioPlayer = document.querySelector('.audio-player'),
         audioNavigation = document.querySelector('.audio-navigation'),
         audioButtonPLay = document.querySelector('.audio-button__play'),
-        audioProgress = document.querySelector('.audi-progress'),
+        audioProgress = document.querySelector('.audio-progress'),
         audioProgressTiming = document.querySelector('.audio-progress__timing'),
         audioTimePassed = document.querySelector('.audio-time__passed'),
         audioTimeTotal = document.querySelector('.audio-time__total');
